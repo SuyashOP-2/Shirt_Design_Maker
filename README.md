@@ -1,8 +1,7 @@
 OVERVIEW :- 
 
 This is Shirt Design Simulator in which we can add colors to shirts import logo from
-file manager and add to shirts, also it has  a functionality of Dalle 2 image generation
-but due to the paid open ai plan it is disable, sure will be implementing in next few days !!
+file manager and add to shirts !!
 
 
 SCREENSHOTS :- 
