@@ -14,7 +14,7 @@ SCREENSHOTS :-
 
 Tech Stack :-
 This project is built with React, using the "@react-three/drei" and "@react-three/fiber" libraries for 3D graphics, "framer-motion" for UI animations, "maath" and "math" for mathematical computations, and "react-color" for color pickers.
-Development is powered by "vite", a fast build tool and development server, with "@vitejs/plugin-react" for React support. 
+Development is powered by "vite", a fast build tool and development server "@vitejs/plugin-react" for React support. 
 The stack enables us to create modern, performant web applications with advanced graphics capabilities and sophisticated UI animations.
 Our React project benefits from the lightweight, simple state management provided by "valtio", allowing us to manage application state with minimal overhead.
 We leverage the power of the "three.js" library to create complex 3D scenes in React, while "framer-motion" provides a simple way to add polished animations to our user interface.
