@@ -1,6 +1,6 @@
 OVERVIEW :- 
 
-This is Shirt Design Simulator in which we can add colors to shirts import logo from
+This is Shirt Design Simulator in which We can add colors to shirts import logo from
 file manager and add to shirts !!
 
 
@@ -19,4 +19,4 @@ The stack enables us to create modern, performant web applications with advanced
 Our React project benefits from the lightweight, simple state management provided by "valtio", allowing us to manage application state with minimal overhead.
 We leverage the power of the "three.js" library to create complex 3D scenes in React, while "framer-motion" provides a simple way to add polished animations to our user interface.
 Our styling is powered by "tailwindcss",
-The tech stack is designed to facilitate a smooth development process and deliver high-quality user experiences with advanced graphics capabilities and performant animations.
+ Tech stack is designed to facilitate a smooth development process and deliver high-quality user experiences with advanced graphics capabilities and performant animations.
